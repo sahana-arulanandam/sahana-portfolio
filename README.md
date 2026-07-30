@@ -6,4 +6,4 @@ I like building autonomous robots and spend most of my time working with ROS 2, 
 
 You can find my projects, research, and everything else here:
 
-➡️ [Portfolio Link](https://sahana-arulanandam.github.io/sahana-portfolio/)
+➡️ [Click here!](https://sahana-arulanandam.github.io/sahana-portfolio/)
