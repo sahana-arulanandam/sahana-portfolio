@@ -144,7 +144,7 @@ body {
 }
 
 .profile-row::after {
-  content: "SYS_STATUS // ONLINE";
+  content: "Currently - 7th Semester";
   position: absolute;
   top: 5px;
   right: 8px;
